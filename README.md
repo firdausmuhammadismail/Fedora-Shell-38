@@ -11,3 +11,7 @@ cp -r .bashrc ~/
 bash
 ```
 
+![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](https://raw.githubusercontent.com/firdausmuhammadismail/Fedora-Shell-38/main/example.png)
+
+> ***DON'T FORGET TO BREATHE!!!!***
+
